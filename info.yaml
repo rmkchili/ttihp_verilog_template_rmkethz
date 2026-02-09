@@ -1,7 +1,7 @@
 
 # Tiny Tapeout project information
 project:
-  title:        "RMKCHILI ETHZ"      # Project title
+  title:        "rmkchili_ethz"      # Project title
   author:       "Rama Mounika Kodamanchili"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Creating GDS for VGA"      # One line description of what your project does
