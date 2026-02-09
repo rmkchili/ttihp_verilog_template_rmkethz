@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+With the presets to increase or decrease the frames per second.
 
 ## How to test
 
-Explain how to use your project
+By modifying the presets
 
 ## External hardware
 
